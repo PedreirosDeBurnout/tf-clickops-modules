@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - modules/**
-      - terragrunt/**
       - terraform/**
   pull_request:
     branches:
@@ -14,7 +13,6 @@ on:
       - master
     paths:
       - modules/**
-      - terragrunt/**
       - terraform/**
 
 env:
