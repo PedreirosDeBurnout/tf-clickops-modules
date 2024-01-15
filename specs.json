@@ -1,0 +1,7 @@
+{
+  "aws_vpc": {
+    "path": "./modules/aws_vpc",
+    "initcio_codigo": "#VPC",
+    "final_codigo": "#!VPC"
+  }
+}
